@@ -1,9 +1,0 @@
-Organização do arquivo game.txt (Entrada):
-    Primeira linha: Numero de iteracoes
-    Segunda linha: Numero de linhas
-    Terceira linha: Numero de colunas
-    Quarta linha em diante: Valores da matriz, ordenados por coluna
-
-Comando para compilar: ghc -o life life.hs
-Comando para executar: life ou ./life (sistemas linux)
-Arquivo de saída: out.txt
